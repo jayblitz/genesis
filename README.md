@@ -31,3 +31,4 @@ Before starting our testnet, we are running a zk-airdrop do distribute the very 
 8. The Airdrop is ***UP UNTIL 31st DECEMBER***. The finalized list of airdrop receivers will be announced in our github! https://github.com/OwshenNetwork/genesis
  
 Merry Christmas and happy diving! :swimmer: 
+Reach out to @Edemblinks on Twitter if you have any queries
